@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chidiogo
-- 👀 I’m interested in dart and Flutter
-- 🌱 I’m currently learning flutter state management
-- 💞️ I’m looking to collaborate on future flutter projects
+- 👀 I’m a data analyst who enjoys documenting his learning journey
+- 🌱 I’m currently learning story telling with data
+- 💞️ I’m looking to collaborate on future data analysis projects, volunteers or otherwise
 - 📫 How to reach me ikechidiogo19@gmail.com
 
 <!---
